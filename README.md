@@ -8,7 +8,7 @@ $ dorado basecaller dna_r10.4.1_e8.2_400bps_sup@v4.2.0 pod5s/ --modified-bases 5
 
 example command on phoenix: 
 ~/migalab/dan/dorado_v0.5.0/dorado-0.5.0-linux-x64/bin/dorado basecaller \ 
-/private/home/jmmenend/software/dorado-0.3.4-linux-x64/dna_r10.4.1_e8.2_400bps_sup@v4.2.0 \  
+/private/groups/migalab/dan/software/dorado-0.6.1-linux-x64/bin/dna_r10.4.1_e8.2_400bps_sup@v4.2.0 \  
 ~/migalab/dan/01_09_24_R1041_DiMeLoAdaptive_CENPC/01_09_24_R1041_DiMeLoAdaptive_CENPC/20240109_1200_6B_PAS52674_0adbae11/pod5_pass \
 --modified-bases 5mC 6mA >\ 
 ~/migalab/dan/01_09_24_R1041_DiMeLoAdaptive_CENPC/20240109_1200_6B_PAS52674_0adbae11/pod5_pass/01_09_24_R1041_DiMeLoAdaptive_CENPC_5mC_6mA.bam
